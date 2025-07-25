@@ -1,10 +1,11 @@
-###MindGarden🌿
+MindGarden🌿
+
 MindGarden is a comprehensive mental health web application featuring journaling, mood tracking, emotional trends analysis, guided meditations, and Aura - an AI chatbot companion powered by Google's Gemini API. Built with React, Vite, and Firebase, it provides users with a complete toolkit for emotional well-being and self-reflection.
 
-##🚀 Live Demo
+🚀 Live Demo
 Dashboard: https://mindgarden-platform.onrender.com
 
-##✨ Features
+✨ Features
 📝 Personal Journaling
 Express yourself freely in a safe, private space designed for reflection and personal growth.
 
