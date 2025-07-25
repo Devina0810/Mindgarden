@@ -4,12 +4,10 @@ import Navbar from "../components/Navbar";
 
 const Dashboard = () => {
   const openChatbot = () => {
-    // Open your AI Mental Health Companion project in a new tab
-    // window.open('http://localhost:3001', '_blank');
-    
-    // OR if you prefer to navigate in the same tab, use this instead:
-    window.location.href = 'http://localhost:3001';
+  const chatbotUrl = import.meta.env.VITE_CHATBOT_URL || 'http://localhost:3001';
+  window.location.href = chatbotUrl;
   };
+
 
   const features = [
     {
