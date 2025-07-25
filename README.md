@@ -1,12 +1,30 @@
-# React + Vite
+###MindGarden🌿
+MindGarden is a comprehensive mental health web application featuring journaling, mood tracking, emotional trends analysis, guided meditations, and Aura - an AI chatbot companion powered by Google's Gemini API. Built with React, Vite, and Firebase, it provides users with a complete toolkit for emotional well-being and self-reflection.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+##🚀 Live Demo
+Dashboard: https://mindgarden-platform.onrender.com
 
-Currently, two official plugins are available:
+##✨ Features
+📝 Personal Journaling
+Express yourself freely in a safe, private space designed for reflection and personal growth.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🌟 Mood Tracking
+Monitor your daily emotions and discover patterns in your mental wellness journey with intuitive mood logging.
 
-## Expanding the ESLint configuration
+📈 Emotional Trends Analysis
+Visualize how your emotions change over time with interactive charts and gain insights into your mental health patterns.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🧘‍♀️ Guided Meditations
+Find peace with our collection of calming guided meditation sessions designed to reduce stress and enhance mindfulness.
+
+🤖 Aura AI Companion
+Talk to Aura, a compassionate AI companion trained in mental health support and active listening, powered by Google's Gemini API.
+
+🛠️ Technologies Used
+Frontend:	React 19, Vite, TypeScript, Tailwind CSS
+Animations:	Framer Motion
+Charts:	Chart.js, React-Chartjs-2
+AI/Chatbot:	Google Gemini API
+Backend:	Firebase, Firebase Admin SDK
+Deployment:	Render 
+Routing:	React Router DOM
