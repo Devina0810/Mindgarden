@@ -13,8 +13,8 @@ const App: React.FC = () => {
   const [isLoading, setIsLoading] = useState<boolean>(true);
 
   const backToDashboard = () => {
-    window.location.href = 'http://localhost:3000'; // MINDGARDEN URL
-    // OR open in new tab: window.open('http://localhost:3000', '_blank');
+    const dashboardUrl = (import.meta as any).env.VITE_DASHBOARD_URL || 'http://localhost:3000';
+    window.location.href = dashboardUrl;
   };
 
   useEffect(() => {
