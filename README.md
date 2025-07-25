@@ -22,16 +22,21 @@ Find peace with our collection of calming guided meditation sessions designed to
 Talk to Aura, a compassionate AI companion trained in mental health support and active listening, powered by Google's Gemini API.
 
 ## 🛠️ Technologies Used
-Frontend:	React 19, Vite, TypeScript, Tailwind CSS
-Animations:	Framer Motion
-Charts:	Chart.js, React-Chartjs-2
-AI/Chatbot:	Google Gemini API
-Backend:	Firebase, Firebase Admin SDK
-Deployment:	Render 
-Routing:	React Router DOM
+React-Vite, TypeScript, Tailwind CSS, Framer Motion, Chart.js, Google Gemini API, Firebase, Firebase Admin SDK, Render, React Router DOM
 
 ## 🚀 Getting Started
 
 1. Clone the repo  
    ```bash
    git clone https://github.com/Devina0810/Mindgarden
+   Install dependencies for both projects
+   
+2. Install dashboard dependencies
+   npm install
+
+3. Install chatbot dependencies
+cd AI-mental-health-companion
+npm install
+cd ..
+
+4. Set up environment variables
