@@ -21,11 +21,9 @@ Find peace with our collection of calming guided meditation sessions designed to
 🤖 Aura AI Companion:
 Talk to Aura, a compassionate AI companion trained in mental health support and active listening, powered by Google's Gemini API.
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 Frontend:	React 19, Vite, TypeScript, Tailwind CSS
-
 Animations:	Framer Motion
-
 Charts:	Chart.js, React-Chartjs-2
 AI/Chatbot:	Google Gemini API
 Backend:	Firebase, Firebase Admin SDK
