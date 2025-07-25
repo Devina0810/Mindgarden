@@ -23,6 +23,7 @@ Talk to Aura, a compassionate AI companion trained in mental health support and 
 
 🛠️ Technologies Used
 Frontend:	React 19, Vite, TypeScript, Tailwind CSS
+
 Animations:	Framer Motion
 Charts:	Chart.js, React-Chartjs-2
 AI/Chatbot:	Google Gemini API
